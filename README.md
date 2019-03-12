@@ -1,4 +1,4 @@
-# Ide 44 Female TO 40 MALE ADAPTER (powered)
+# Ide 44 Female to 40 Male Adapter (powered)
 
 This adapter allows to connect a 40 pin hard drive to a 44 pin motherboard. It also includes:
 
