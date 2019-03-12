@@ -7,9 +7,13 @@ Ide activity led onboard and also external.
 Master/Slave Select.
 
 # Note
+
 This is a work in progress, several testing must be made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
 
+If you run a batch and if you want to send me a couple of board.. i will not complaint :p
+
 # Feedback
+
 If you find any error on this description, please drop me an email to info@arananet.net or you could also buy me a beer :p
 
 # Image
