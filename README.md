@@ -4,7 +4,6 @@ This adapter allows to connect a 40 pin hard drive to a 44 pin motherboard. It a
 
 External power output for the external harddrive.
 Ide activity led onboard and also external.
-Master/Slave Select.
 
 # Note
 
@@ -25,8 +24,7 @@ If you find any error on this description, please drop me an email to info@arana
 
 | Part            | Value                   | Package                        |
 | --------------- | ----------------------- | ------------------------------ |      
-|  C2             | 100nf                   | 0805                           |
-|  R1             | 10k                     | 0805                           |
+|  C1             | 100nf                   | 0805                           |
 |  R2             | 330                     | 0805                           |
 |  LED            | Any color               | 0805                           |
 |  Connector 1 F. | 87758-4416              | 87758-4416                     |
