@@ -17,8 +17,8 @@ If you find any error on this description, please drop me an email to info@arana
 
 # Image
 
-<img src="https://github.com/arananet/Ide44to40-adapter/blob/master/imgs/img13.png?raw=true" width="200">
-<img src="https://github.com/arananet/Ide44to40-adapter/blob/master/imgs/img23.png?raw=true" width="200">
+<img src="https://github.com/arananet/Ide44to40-adapter/blob/master/imgs/img13.png?raw=true" width="500">
+<img src="https://github.com/arananet/Ide44to40-adapter/blob/master/imgs/img23.png?raw=true" width="500">
 
 # BOM
 
